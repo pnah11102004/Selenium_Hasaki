@@ -15,8 +15,8 @@ namespace UnitTestProjectHasaki
     public class HasakiAddToCartTest
     {
         IWebDriver driver;
-        string phone = "0845204748";
-        string password = "123456789";
+        string phone = "xxx";
+        string password = "xxx";
 
         [TestInitialize]
         public void Setup()
@@ -155,3 +155,4 @@ namespace UnitTestProjectHasaki
         }
     }
 }
+
